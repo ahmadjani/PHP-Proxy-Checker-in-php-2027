@@ -98,12 +98,15 @@ Restart Apache after making changes.
 The simplest supported format is one proxy per line:
 
 1.2.3.4:8080
+
 5.6.7.8:3128
+
 9.10.11.12:80
 
 You can also use:
 
 http://1.2.3.4:8080
+
 https://5.6.7.8:3128
 
 Comments and empty lines are ignored:
@@ -111,6 +114,7 @@ Comments and empty lines are ignored:
 # My proxy list
 
 1.2.3.4:8080
+
 5.6.7.8:3128
 
 # Another proxy
