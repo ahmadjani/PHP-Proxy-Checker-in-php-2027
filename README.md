@@ -67,7 +67,7 @@ proxy-checker/
 
 Clone the repository:
 
-git clone https://github.com/ahmadjani/php-proxy-checker.git
+git clone https://github.com/ahmadjani/PHP-Proxy-Checker-in-php-2027.git
 
 Or download the repository as a ZIP file and extract it.
 
