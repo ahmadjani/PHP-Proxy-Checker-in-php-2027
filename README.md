@@ -222,7 +222,7 @@ git branch -M main
 Add your GitHub repository:
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/php-proxy-checker.git
+git remote add origin https://github.com/ahmadjani/PHP-Proxy-Checker-in-php-2027.git
 ```
 
 Replace:
